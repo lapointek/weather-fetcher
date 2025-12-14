@@ -16,5 +16,4 @@ npm start
 
 ## Weather Application Images
 
-![alt text](https://github.com/lapointek/weather-fetcher/blob/main/images/weather_app.png?raw=true)
-![alt text](https://github.com/lapointek/weather-fetcher/blob/main/images/searched_city.png?raw=true)
+![alt text](https://github.com/lapointek/weather-fetcher/blob/main/images/weatherfetcher.gif?raw=true)
