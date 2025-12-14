@@ -10,10 +10,8 @@ This is a web application where you fetch weather data using an API from https:/
 npm start
 ```
 
-### Local Server
+### Access Local Server
 
 [http://localhost:3000](http://localhost:3000)
-
-## Weather Application Images
 
 ![alt text](https://github.com/lapointek/weather-fetcher/blob/main/images/weatherfetcher.gif?raw=true)
