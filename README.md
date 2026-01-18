@@ -4,10 +4,18 @@ This is a web application where you fetch weather data using an API from https:/
 
 ## Using the Weather Application
 
-### Run Application
+## Installation
 
 ```
-npm start
+$ git clone git@github.com:lapointek/weather-fetcher.git
+$ cd weather-fetcher/src
+$ npm install
+```
+
+## Run Application
+
+```
+$ npm start
 ```
 
 ### Access Local Server
